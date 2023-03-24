@@ -5,4 +5,4 @@ Here You Can Download the jrvs.py files in your system to access the the source 
 
 while Running you may need to install some dependencies
 which is easily available in Stackoverflow
-Basically you need to install some commands with the help of pip.
+Basically you need to install some packages with the help of pip.
