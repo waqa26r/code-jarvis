@@ -26,7 +26,7 @@ def wishMe():
 
     speak("Its my pleasure that I am following   you sir!!! ")
    
-    #speak("areaf","yasir","..")
+    speak("Muhammad","Abu-Bakar","Omar Farooq","Ali-Ibne Haider","Hasan","Husain","..")
 
 
 def takecommand():
